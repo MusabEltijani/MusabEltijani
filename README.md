@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MusabEltijani
 - 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Python and AI 
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me mosaup90@gmail.com
 
