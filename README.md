@@ -1,36 +1,29 @@
-# Hi there, I'm Musab eltijani 👋
+# Hi there, I'm Musab 👋
 
-## 🚀 About Me
+##  About Me
+Mobile Engineer & Tech Entrepreneur  
+Building scalable apps, systems, and digital products  
 
-I'm a **Software Engineer** with a strong background in **mobile, web, and backend development**. With years of experience delivering high-performance applications, I specialize in:
+- Flutter • Android • iOS • React • Node.js  
+- SaaS • Growth • Monetization  
+- Real-time systems (WebRTC, Agora, Zoom, FCM)  
 
-- **Cross-platform Mobile Development**: Flutter (Dart), Android (Java/Kotlin)
-- **Backend Development**: Node.js, Firebase, and RESTful APIs
-- **Web Development**: React.js for dynamic dashboards and web applications
-- **Cloud & DevOps**: Firebase, and scalable architecture
-- **Real-time Communication**: Agora, Zoom SDK, WebRTC, and FCM push notifications
-- **Security & Data Protection**: Enforcing advanced security measures for mobile and web apps
+##  What I Do
+- Build high-performance mobile & web apps  
+- Design scalable backend systems & APIs  
+- Develop real-time and event-driven products  
+- Focus on performance, security, and clean architecture  
 
-## 💡 My Expertise
-✅ Building **scalable, secure, and high-performance** mobile and web applications
-✅ Architecting **real-time, event-driven** systems for seamless user experiences
-✅ Implementing **best practices in CI/CD, cloud storage, and API security**
-✅ Optimizing **performance, reducing app load times, and improving UX/UI**
-✅ Managing multiple projects efficiently and delivering results on tight deadlines
+##  Projects
+-  E-commerce & Delivery Platforms (multi-role systems)  
+-  Live Streaming & Video Apps (Zoom, Agora)  
+-  Maps & Location-based Services  
+-  Dashboards & Analytics Systems  
 
-## 🔥 Notable Projects
-- **🛒 E-commerce & Delivery Platforms**: Multi-role apps for users, drivers, and store owners with real-time tracking
-- **🎥 Live Streaming & Video Conferencing**: Integrated **Zoom & Agora SDKs** for interactive video sessions
-- **📍 Advanced Mapping & Geolocation**: Implemented Google Maps & geofencing for location-based services
-- **🔐 Security-focused Apps**: Enhanced security measures with **FLAG_SECURE** and other protection techniques
-- **📊 Business Dashboards & Analytics**: Built React.js-powered dashboards for data visualization & reporting
+##  Work
+Working with startups & businesses to build and scale products  
 
-## 💼 Work & Freelancing
-I work with businesses, startups, and entrepreneurs to build cutting-edge solutions. I manage multiple projects, ensuring high-quality results. If you're looking for a **highly skilled developer** to bring your vision to life, let's connect!
-
-## 📫 Connect with Me
-- 🌍 [LinkedIn](https://www.linkedin.com/in/musab-el-tijani-ahmed-a19501167/)
-- 📧 [E-mail](mosaup90@gmail.com)
-- 💻 [Portfolio](https://musab.sd)
-
-Let's build **something innovative and impactful** together! 🚀
+##  Connect
+-  LinkedIn: https://www.linkedin.com/in/musab-el-tijani-ahmed-a19501167/  
+-  Email: mosaup90@gmail.com  
+-  Portfolio: https://musab-eltijani.netlify.app/  Let's build **something innovative and impactful** together! 🚀
