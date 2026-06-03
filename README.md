@@ -1,7 +1,7 @@
 # Hi there, I'm Musab 👋
 
 ##  About Me
-Mobile Engineer & Tech Entrepreneur  
+Software Engineer & Tech Entrepreneur  
 Building scalable apps, systems, and digital products  
 
 - Flutter • Android • iOS • React • Node.js  
